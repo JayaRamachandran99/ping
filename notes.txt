@@ -1,0 +1,7 @@
+To check React is loaded or not in console 
+==> React
+
+To check React Dom is loaded or not in console 
+
+==> ReactDOM
+
